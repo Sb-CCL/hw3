@@ -17,12 +17,14 @@ Git Commands
 ### Initialize
 
 ```bash
+# Initializes a new Git repository in the local directory
 git init
 ```
 
 ### Clone
 
 ```bash
+# Copies an existing Git repository from a URL to local directory
 git clone [URL]
 ```
 
